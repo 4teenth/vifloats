@@ -9,7 +9,7 @@ Current work is about float properties
 
 2. open root folder of this repository
 
-3. make a new branch via git checkout -b <branch name>
+3. make a new branch via git checkout -b yourbranchname
 
 4. write your code
 
