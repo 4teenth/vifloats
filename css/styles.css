@@ -1,1 +1,24 @@
+.banner_list {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
 
+.list-item {
+    display: inline-block;
+    margin-right: -4px;
+}
+
+.info {
+    width: 206px;
+    margin: auto;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.special {
+    margin-left: -9px;
+}
