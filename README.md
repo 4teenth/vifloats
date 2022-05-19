@@ -9,10 +9,13 @@ Current work is about float properties
 
 2. open root folder of this repository
 
-3. make a new branch via git checkout -b yourbranchname
+3. make a new branch and switch to via git checkout -b yourbranchname
 
-4. write your code
+4. DON'T change/push anything to MAIN branch, write the code in YOUR branch
 
-5. if needed take the latest version of stable branch via git checkout -(or branch name), then run git pull and go back to your branch again.
+5. if needed take the latest version with new features from dev branch via git checkout -(previous or branch name), then run git pull and go back to your branch again
 
-6. when you will be ready add/commit and push changes to your branch and create a pull request.
+6. when you will be ready (add, commit) push changes to your branch and create a pull request if needed
+
+Pay attention you first time clone a repository you will get all changes from MAIN branch. MAIN is a stable branch and updates rarely. The latest changes and experimental features live in dev branch, it updates regularly.
+So, for better experience make sure you have up-to-date branch.
